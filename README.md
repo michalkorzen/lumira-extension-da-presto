@@ -13,7 +13,7 @@ A Lumira Data Access Extension to fetch data from Presto
   -Dhilo.externalds.folder=C:\Program Files\SAP Lumira\Desktop\daextensions <br>
   -Dactivate.externaldatasource.ds=true <br>
 ![inifile](images/b.jpg?raw=true "inifile")<br>
-5. Download the executable file called Presto.exe from [Presto.exe](bin/Presto.exe?raw=true "Presto.exe") to the directory we just created.<br>
+4. Download the executable file called [Presto.exe](bin/Presto.exe?raw=true "Presto.exe") to the directory we just created.<br>
 
 <strong>Use: Import data extension into Lumira</strong> <br>
 1. Now open up Lumira and add a new dataset from an external data source, we can see the Presto as an uncategorized extension:<br>
